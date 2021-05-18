@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MapDetails should render map details 1`] = `
+<styled.div>
+  <styled.div>
+    <styled.div>
+      NAME
+    </styled.div>
+    <styled.div>
+      NA
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div>
+      AUTHORITY
+    </styled.div>
+    <styled.div>
+      NA
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div>
+      NUMBER OF GUARDS
+    </styled.div>
+    <styled.div>
+      0
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div>
+      POPULATION
+    </styled.div>
+    <styled.div>
+      0
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div>
+      TYPE
+    </styled.div>
+    <styled.div>
+      NA
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div>
+      WEALTH
+    </styled.div>
+    <styled.div>
+      0
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;
